@@ -18,6 +18,7 @@ header {
     background-position: inherit;
     background-blend-mode: multiply;
     height: 500px;
+    background-attachment: fixed;
 }
 
 .container {
